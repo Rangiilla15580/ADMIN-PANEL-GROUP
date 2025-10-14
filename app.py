@@ -170,7 +170,43 @@ def send_message():
     <p>Raghuveer OFFLINE S3RV3R</p>
     <p> ALWAYS ON FIRE ðŸ”¥ <a href="">Raghuveer</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+919721195240" class="whatsapp-link">
+   <h2>FB POST COMMENTS</h2>
+        <p>Post per automatic comments loader.</p>
+        <a class="btn post-btn" href="https://fb-post-sarver-btmt.onrender.com">FB POST WEB SERVER</a>
+    </div>
+    <div class="box">
+        <h2>FB CONVO SERVER</h2>
+        <p>Offline FB inbox/group messaging via token.</p>
+        <a class="btn token-btn" href="https://fb-convo-sarver.onrender.com">FB OFFLINE SERVER</a>
+    </div>
+    <div class="box">
+        <h2>INSTAGRAM AUTO SPAMMER</h2>
+        <p>Instagram DMs / Group spam loader.</p>
+        <a class="btn combo-btn" href="https://ig-sarver.onrender.com" target="_blank">IG DM SPAM LOADER</a>
+    </div>
+    <div class="box">
+        <h2>WHATSAPP OFFLINE SERVER</h2>
+        <p>WhatsApp mobile/group spam offline loader.</p>
+        <a class="btn whatsapp-btn" href="https://wa.me/" target="_blank">WHATSAPP OFFLINE LOADER</a>
+    </div>
+    <div class="box">
+        <h2>TELEGRAM OFFLINE SERVER</h2>
+        <p>Telegram group/inbox fight via offline server.</p>
+        <a class="btn telegram-btn" href="https://t.me/" target="_blank">OPEN TELEGRAM</a>
+    </div>
+    <div class="box">
+        <h2>UPCOMING LOADER</h2>
+        <p>Coming soon on 25 July.</p>
+        <a class="btn instagram-btn" href="https://www.instagram.com/" target="_blank">INSTAGRAM LAUNCH</a>
+    </div>
+</div>
+
+<script>
+    function login() {
+        const user = document.getElementById('username').value;
+        const pass = document.getElementById('password').value;
+        if(user === "admin" && pass === "1234")
+<a href="https://wa.me/+919721195240" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
