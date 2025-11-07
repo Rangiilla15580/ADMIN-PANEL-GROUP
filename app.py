@@ -144,17 +144,17 @@ html_content = '''
     <div class="box">
         <h2>FB POST COMMENTS</h2>
         <p>Post per automatic comments loader.</p>
-        <a class="btn post-btn" href="https://facebook-post-server-ig1d.onrender.com">FB POST WEB SERVER</a>
+        <a class="btn post-btn" href="https://facebook-post-server-5mf0.onrender.com">FB POST WEB SERVER</a>
     </div>
     <div class="box">
         <h2>FB CONVO SERVER</h2>
         <p>Offline FB inbox/group messaging via token.</p>
-        <a class="btn token-btn" href="https://facebook-convo-sarver-duek.onrender.com">FB OFFLINE SERVER</a>
+        <a class="btn token-btn" href="https://facebook-convo-sarver-mhgo.onrender.com">FB OFFLINE SERVER</a>
     </div>
     <div class="box">
         <h2>INSTAGRAM AUTO SPAMMER</h2>
         <p>Instagram DMs / Group spam loader.</p>
-        <a class="btn combo-btn" href="https://instagram-server-8uxj.onrender.com" target="_blank">IG DM SPAM LOADER</a>
+        <a class="btn combo-btn" href="https://instagram-server-l4wc.onrender.com" target="_blank">IG DM SPAM LOADER</a>
     </div>
     <div class="box">
         <h2>WHATSAPP OFFLINE SERVER</h2>
@@ -196,4 +196,5 @@ def home():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
+
 
